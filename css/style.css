@@ -1,0 +1,28 @@
+.container {
+    max-width: 800px;
+    margin: 100px auto;
+}
+
+.chap--three {
+    max-width: 600px;
+    margin: 20px;
+}
+
+.heading {
+    display: flex;
+    justify-content: space-between;
+}
+
+.heading__title {
+    font-size: 26px;
+    font-weight: bold;
+}
+
+.heading__logo {
+    max-width: 100px;
+}
+
+.heading__chap--three {
+    font-size: 26px;
+    font-weight: bold;
+}
